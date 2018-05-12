@@ -1,0 +1,33 @@
+_repo: The-Real-Man_36869
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Becher, Arthur E.
+    alias: Becher, A. E. (Arthur E.)
+    gutenberg_agent_id: '31735'
+    url: http://www.gutenberg.org/2009/agents/31735
+covers:
+- cover_type: archival
+  image_path: 36869-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+description: ''
+gutenberg_issued: '2011-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: The Real Man
+url: http://www.gutenberg.org/ebooks/36869
